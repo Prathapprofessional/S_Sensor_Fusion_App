@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\prath\Assignment_Sentics\S_Sensor_Fusion_App\build\CMakeFiles\1e6805c8711b92acfa7c1e60fec7b37d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AC4CD716-A1FC-3409-99B7-742E1870C98F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

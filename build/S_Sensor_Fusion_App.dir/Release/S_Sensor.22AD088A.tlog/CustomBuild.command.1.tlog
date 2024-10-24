@@ -1,0 +1,10 @@
+^C:\USERS\PRATH\ASSIGNMENT_SENTICS\S_SENSOR_FUSION_APP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/prath/Assignment_Sentics/S_Sensor_Fusion_App -BC:/Users/prath/Assignment_Sentics/S_Sensor_Fusion_App/build --check-stamp-file C:/Users/prath/Assignment_Sentics/S_Sensor_Fusion_App/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

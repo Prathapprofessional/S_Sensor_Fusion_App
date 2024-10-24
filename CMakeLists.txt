@@ -8,8 +8,8 @@ project(S_Sensor_Fusion_App)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
+#Adding the include directory
+include_directories(include)
+
 #Executable
 add_executable(S_Sensor_Fusion_App src/main.cpp)
-
-#Include
-target_include_directories(S_Sensor_Fusion_App PUBLIC include)
