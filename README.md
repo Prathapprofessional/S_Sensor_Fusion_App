@@ -4,7 +4,7 @@ This application performs sensor data fusion using clustering algorithms to proc
 ## Requirements
 - C++11 or higher
 - [nlohmann/json](https://github.com/nlohmann/json) (for JSON parsing)
-- [Google Test](https://github.com/google/googletest) (for unit testing)
+
 
 ## Installation
 1. Clone the repository:
