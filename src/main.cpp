@@ -6,7 +6,7 @@
 #include <unordered_map>
 #include <cmath>
 #include <cstdlib>
-#include "json.hpp"
+#include "json.hpp"   // Please look into READ.me document about the license
 
 using json = nlohmann::json;
 

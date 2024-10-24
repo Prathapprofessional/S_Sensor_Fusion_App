@@ -194,6 +194,15 @@ S_Sensor_Fusion_App_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 S_Sensor_Fusion_App_SOURCE_DIR:STATIC=C:/Users/prath/Assignment_Sentics/S_Sensor_Fusion_App
 
+//Value Computed by CMake
+S_Sensor_Fusion_App_Tests_BINARY_DIR:STATIC=C:/Users/prath/Assignment_Sentics/S_Sensor_Fusion_App/build/tests
+
+//Value Computed by CMake
+S_Sensor_Fusion_App_Tests_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+S_Sensor_Fusion_App_Tests_SOURCE_DIR:STATIC=C:/Users/prath/Assignment_Sentics/S_Sensor_Fusion_App/tests
+
 
 ########################
 # INTERNAL cache entries
@@ -279,7 +288,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib

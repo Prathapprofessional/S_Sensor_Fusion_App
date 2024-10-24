@@ -178,6 +178,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{22AD088A-BCBB-3510-B952-EBAF5EF367FC}</Project>
       <Name>S_Sensor_Fusion_App</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\prath\Assignment_Sentics\S_Sensor_Fusion_App\build\tests\test_sensor_clustering.vcxproj">
+      <Project>{9A1E43B3-811A-3F3F-B2B6-916ABF0094C7}</Project>
+      <Name>test_sensor_clustering</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -13,3 +13,6 @@ include_directories(include)
 
 #Executable
 add_executable(S_Sensor_Fusion_App src/main.cpp)
+
+#Testing
+add_subdirectory(tests)

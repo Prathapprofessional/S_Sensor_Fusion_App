@@ -5,13 +5,7 @@
       <FullPath>C:\Users\prath\Assignment_Sentics\S_Sensor_Fusion_App\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\prath\Assignment_Sentics\S_Sensor_Fusion_App\build\Release\S_Sensor_Fusion_App.exe</FullPath>
-    </ProjectOutput>
-    <ProjectOutput>
       <FullPath>C:\Users\prath\Assignment_Sentics\S_Sensor_Fusion_App\build\tests\Release\test_sensor_clustering.exe</FullPath>
-    </ProjectOutput>
-    <ProjectOutput>
-      <FullPath>C:\Users\prath\Assignment_Sentics\S_Sensor_Fusion_App\build\x64\Release\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
